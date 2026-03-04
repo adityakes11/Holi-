@@ -158,7 +158,7 @@ function scanScene() {
   fill(0, 255, 255);
   textSize(32);
   textAlign(CENTER, CENTER);
-  text("Scan Fingerprint to Authorize", width / 2, 120);
+  text("Show your hand in front of camera \n Then scan your fingerprint", width / 2, 120);
 
   let centerX = width / 2;
   let centerY = height / 2;
